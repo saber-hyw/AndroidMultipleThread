@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/C_Cplusplus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/C_Cplusplus/CplusCplusStudy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DaemonServiceApk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Makefile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Qt_Study" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Qt_TempStudy/RGBGame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Qt_TempStudy/qtcharts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Vue_myself" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/makefile---/Makefile(1)/Makefile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testWaveForm/oymPlatForm" vcs="Git" />
+  </component>
+</project>
